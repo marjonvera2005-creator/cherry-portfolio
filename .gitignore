@@ -1,0 +1,11 @@
+node_modules
+.next
+dev.log
+
+# Original source files, not part of the site
+/*.docx
+/*.pdf
+/*.mp4
+/*.jpg
+.vercel
+.impeccable

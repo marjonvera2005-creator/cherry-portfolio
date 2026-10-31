@@ -59,6 +59,9 @@ export default function Hero() {
           <a className="btn ghost" href="#contact">
             Contact Me <Icon name="send" />
           </a>
+          <a className="btn ghost" href="/assets/Cherry-Mae-Atibula-Resume.pdf" download>
+            Download Resume <Icon name="download" />
+          </a>
         </div>
       </div>
       <Lanyard />
